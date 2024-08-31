@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adamability
-- 👀 I’m interested in coding, DevOps and everything IT related.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning web devopement.
 - 💞️ I’m looking to collaborate on every E-commerce web projects.
 
